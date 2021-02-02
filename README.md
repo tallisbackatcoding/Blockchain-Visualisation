@@ -2,7 +2,7 @@
 
 This Blockchain have functionalities such as: 
 - add a identifier to the blockchain node
-- remove nodes from the blockchain with a nid identifier
+- remove nodes from the blockchain with an identifier
 - add a identifier block to nodes identified
 - remove the identified blocks from all nodes where these blocks are present
 - list all nodes by their identifiers
